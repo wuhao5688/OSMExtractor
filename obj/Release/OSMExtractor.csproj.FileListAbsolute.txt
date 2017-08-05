@@ -1,0 +1,6 @@
+D:\Project\git\OSMExtractor\bin\Release\OSMExtractor.exe.config
+D:\Project\git\OSMExtractor\bin\Release\OSMExtractor.exe
+D:\Project\git\OSMExtractor\bin\Release\OSMExtractor.pdb
+D:\Project\git\OSMExtractor\obj\Release\OSMExtractor.csprojResolveAssemblyReference.cache
+D:\Project\git\OSMExtractor\obj\Release\OSMExtractor.exe
+D:\Project\git\OSMExtractor\obj\Release\OSMExtractor.pdb

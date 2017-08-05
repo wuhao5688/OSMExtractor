@@ -1,0 +1,1 @@
+D:\Project\git\OSMExtractor\bin\Debug\OSMExtractor.exe.config
